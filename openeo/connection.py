@@ -60,7 +60,7 @@ class LocalConnection():
           print('Invalid collection ID')
           return VisualDict("collection", data='')
       else:
-        print('No collections loaded')
+        print('No collections loadedsafadsf')
         return VisualDict("collection", data='')
 
     
